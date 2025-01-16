@@ -128,24 +128,5 @@ export default {
 4. **Week 4:** Perform end-to-end testing and refine the user experience.
 5. **Launch:** Deploy the marketplace and monitor for feedback.
 
----
 
-### 6. Collaboration Notes
-- Group discussions held on Slack for brainstorming workflows and schema design.
-- Peer reviews were conducted to validate API requirements and architecture diagrams.
-- Version control managed using GitHub with regular commits and clear commit messages.
-
----
-
-### 7. Submission Details
-**Title:** Marketplace Technical Foundation - Comforty
-**Folder Structure:**
-- Documentation/SystemArchitecture_Day2.pdf
-- Documentation/APIEndpoints.xlsx
-- Documentation/SanitySchema.js
-**Quality Check:** Diagrams, schemas, and content were reviewed for clarity and completeness.
-
----
-
-This document provides a professional blueprint for Comforty’s marketplace development, focusing on a seamless and intuitive user experience for ergonomic office furniture.
 
