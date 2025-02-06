@@ -1,4 +1,4 @@
-**Comforty - Ergonomic Workspace Marketplace**  
+#### **Comforty - Ergonomic Workspace Marketplace**  
 A modern e-commerce platform for customizable office solutions, developed for the Marketplace Builder Hackathon.  
 
 ---
